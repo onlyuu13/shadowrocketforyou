@@ -34,8 +34,6 @@ DOMAIN-SUFFIX,disquscdn.com
 # 50 whatsapp
 IP-CIDR,18.194.0.0/15
 IP-CIDR,34.224.0.0/12
-# 54 台湾香港澳门 常用网站
-DOMAIN-SUFFIX,appledaily.tw
 # 72 #112 Google Voice
 IP-CIDR,74.125.0.0/16
 # 85（可能冗余）
@@ -85,7 +83,6 @@ DOMAIN-SUFFIX,appldnld.g.aaplimg.com
 DOMAIN-SUFFIX,cds-cdn.v.aaplimg.com
 DOMAIN-SUFFIX,cdn.apple-mapkit.com
 DOMAIN-SUFFIX,gs-loc-cn.apple.com
-DOMAIN-SUFFIX,phobos.apple.com
 # Paramount
 DOMAIN-SUFFIX,paramountplus.com
 # New Bing
@@ -167,3 +164,18 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,youtubei.googleapis.com
 # TradingView
 DOMAIN-SUFFIX,tradingview.com
+# TikTok(字节海外域名可能解析到国内节点,需强制代理防区域检测)
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,muscdn.com
+# Apple 国内不可用的服务(TV+ / Books / Podcasts)
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,books.apple.com
+DOMAIN-SUFFIX,podcasts.apple.com
