@@ -1,0 +1,10 @@
+# 微信直连
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,wechatpay.com.cn
+DOMAIN-SUFFIX,wechatapp.com
+# 微信/腾讯语音视频、媒体走的 IP 段
+IP-CIDR,203.205.128.0/17,no-resolve
+IP-CIDR,58.247.0.0/16,no-resolve
