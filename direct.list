@@ -8,3 +8,15 @@ DOMAIN-SUFFIX,wechatapp.com
 # 微信/腾讯语音视频、媒体走的 IP 段
 IP-CIDR,203.205.128.0/17,no-resolve
 IP-CIDR,58.247.0.0/16,no-resolve
+# 小红书
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhslink.com
+# 哔哩哔哩
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
